@@ -1,0 +1,7 @@
+{
+  "name": "testpic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
